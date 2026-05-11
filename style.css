@@ -6,6 +6,8 @@
   background-color: grey;
   width: 100vw;
   /* add code below */
+  display: flex;
+  flex-direction: row;
 
 
 }
@@ -20,6 +22,8 @@
   width: 100vw;
   display: flex;
   /* add code below*/
+  display: flex;
+  flex-direction: column;
 
 
 
@@ -35,7 +39,8 @@
   background-color: grey;
   width: 100vw;
   /* add code below */
-
+  display: flex;
+  justify-content: center;
 
 }
 
